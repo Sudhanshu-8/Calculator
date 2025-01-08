@@ -13,8 +13,8 @@ A Java Swing-based Calculator application designed for performing arithmetic ope
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
-   cd calculator-app
+   git clone https://github.com/Sudhanshu-8/Calculator.git
+   cd Calculator
    ```
 
 2. **Open the project in your favorite Java IDE**  
